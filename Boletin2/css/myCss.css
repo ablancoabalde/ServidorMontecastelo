@@ -1,0 +1,12 @@
+.txtsBox, .buttonBox{
+    border: 1px solid black;
+    display: block;
+    padding: 10px;
+    width: 30%;
+}
+
+label{
+    display: block;
+    font-weight: bold;
+}
+
